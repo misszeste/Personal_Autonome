@@ -720,6 +720,19 @@
             </div>
           </div>
         </div> -->
+        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+          <div class="portfolio-wrap">
+            <img src="assets/img/portfolio/html.png" class="img-fluid" alt="imagelanguage">
+            <div class="portfolio-info">
+              <h4>Site Portfolio CV</h4>
+              <p>HTML - CSS - JavaScript</p>
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/html.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="https://github.com/misszeste/Personal_CV" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-console">
           <div class="portfolio-wrap">
@@ -847,11 +860,9 @@
         <div class="col-md-6 mt-4 mt-md-0 d-flex align-items-stretch">
           <div class="info-box">
             <i class="bx bx-share-alt"></i>
-            <h3>Réseau Sociaux</h3>
+            <h3>Réseaux Sociaux</h3>
             <div class="social-links">
-              <a href="https://twitter.com/JessikaSou83449" class="twitter"><i class="bi bi-twitter"></i></a>
               <a href="https://www.facebook.com/profile.php?id=100091950288719" class="facebook"><i class="bi bi-facebook"></i></a>
-              <a href="https://www.instagram.com/programmeranalystjs/" class="instagram"><i class="bi bi-instagram"></i></a>
               <a href="https://www.linkedin.com/in/jessikasoucy/" class="linkedin"><i class="bi bi-linkedin"></i></a>
             </div>
           </div>
