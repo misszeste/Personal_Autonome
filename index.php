@@ -79,7 +79,7 @@
           <li><a class="nav-link" href="#about">À propos</a></li>
           <li><a class="nav-link" href="#services">Services Offerts</a></li>
           <li><a class="nav-link" href="#resume">CV</a></li>
-          <!-- <li><a class="nav-link" href="#portfolio">Portfolio</a></li>         À Ajouter lors de projet en ligne            -->
+          <li><a class="nav-link" href="#portfolio">Portfolio</a></li>
           <li><a class="nav-link" href="#contact">Contact</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
@@ -151,7 +151,7 @@
         <div class="col-lg-4 col-md-6 mt-5 mt-md-0">
           <div class="count-box">
             <i class="bi bi-journal-richtext"></i>
-            <span data-purecounter-start="0" data-purecounter-end="2" data-purecounter-duration="1" class="purecounter"></span>
+            <span data-purecounter-start="0" data-purecounter-end="6" data-purecounter-duration="1" class="purecounter"></span>
             <p>Projets</p>
           </div>
         </div>
@@ -159,7 +159,7 @@
         <div class="col-lg-4 col-md-6 mt-5 mt-lg-0">
           <div class="count-box">
             <i class="bi bi-headset"></i>
-            <span data-purecounter-start="0" data-purecounter-end="10" data-purecounter-duration="1" class="purecounter"></span>
+            <span data-purecounter-start="0" data-purecounter-end="5" data-purecounter-duration="1" class="purecounter"></span>
             <p>Heures de support technique</p>
           </div>
         </div>
@@ -172,7 +172,7 @@
     <div class="skills container">
 
       <div class="section-title">
-        <h2>Compétences</h2>
+        <h2>Compétences explorées VS Intérêts</h2>
       </div>
 
       <div class="row skills-content">
@@ -194,15 +194,23 @@
           </div>
 
           <div class="progress">
-            <span class="skill"> JavaScript <i class="val">70%</i></span>
+            <span class="skill"> JavaScript <i class="val">80%</i></span>
             <div class="progress-bar-wrap">
-              <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+              <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
+
           <div class="progress">
-            <span class="skill"> VB.NET <i class="val">80%</i></span>
+            <span class="skill"> VB.NET <i class="val">90%</i></span>
             <div class="progress-bar-wrap">
-              <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+              <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+          </div>
+
+          <div class="progress">
+            <span class="skill"> Kotlin <i class="val">75%</i></span>
+            <div class="progress-bar-wrap">
+              <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
         </div>
@@ -212,29 +220,37 @@
         <div class="col-lg-6">
 
           <div class="progress">
-            <span class="skill"> PHP <i class="val">80%</i></span>
+            <span class="skill"> PHP <i class="val">85%</i></span>
             <div class="progress-bar-wrap">
-              <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+              <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
 
           <div class="progress">
-            <span class="skill"> ASP.NET <i class="val">70%</i></span>
+            <span class="skill"> ASP.NET <i class="val">75%</i></span>
             <div class="progress-bar-wrap">
-              <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+              <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
 
           <div class="progress">
-            <span class="skill"> REACT <i class="val">80%</i></span>
+            <span class="skill"> REACT <i class="val">90%</i></span>
             <div class="progress-bar-wrap">
-              <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+              <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
+
           <div class="progress">
-            <span class="skill"> C# <i class="val">70%</i></span>
+            <span class="skill"> C# <i class="val">75%</i></span>
             <div class="progress-bar-wrap">
-              <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+              <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+          </div>
+
+          <div class="progress">
+            <span class="skill"> ASP CLASSIC <i class="val">90%</i></span>
+            <div class="progress-bar-wrap">
+              <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
         </div>
@@ -244,6 +260,7 @@
     </div>
 
     </div><!-- End Skills -->
+
 
     <!-- ======= Interests ======= -->
     <div class="interests container">
@@ -328,13 +345,12 @@
                 c'est vraiment une personne sur qui on peut compter
                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
               </p>
-              <!-- <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt=""> -->
               <h3>Nathalie M.</h3>
               <h4>Ancienne Collègue au CISSS</h4>
             </div>
           </div><!-- End testimonial item -->
 
-          <div class="swiper-slide">
+          <!-- <div class="swiper-slide">
             <div class="testimonial-item">
               <p>
                 <i class="bx bxs-quote-alt-left quote-icon-left"></i>
@@ -344,29 +360,26 @@
                 c'est vraiment une personne sur qui on peut compter
                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
               </p>
-              <!-- <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt=""> -->
+              <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
               <h3>Alexander D.</h3>
               <h4> Professeur Multihexa</h4>
             </div>
-          </div><!-- End testimonial item -->
+          </div>End testimonial item -->
 
           <div class="swiper-slide">
             <div class="testimonial-item">
               <p>
                 <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                J'ai travaillé quelques années avec Jessika et je n'ai que de bons mots pour elle,
-                c'est une personne qui prend son travail très au sérieux et qui le fait bien,
-                avec compétence et beaucoup d'humanité et bien sûr toujours avec le sourire,
-                c'est vraiment une personne sur qui on peut compter
+                Pour avoir fait plusieurs projets avec elle, Jessika est très travaillante et prend plaisir à perfectionner son travail pour remettre au client un programme complet et raffiné.
+                Elle pense aux moindres détails et pousse sa réflexion au maximum pour prendre la décision la plus adapter au projet. 
                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
               </p>
-              <!-- <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt=""> -->
-              <h3>Miguel C. </h3>
-              <h4>Directeur MICD. Santé</h4>
+              <h3>Joelle Desautels </h3>
+              <h4>Stagiaire Chez Marché Conclu</h4>
             </div>
-          </div><!-- End testimonial item -->
+          </div> <!--End testimonial item -->
 
-          <div class="swiper-slide">
+          <!--<div class="swiper-slide">
             <div class="testimonial-item">
               <p>
                 <i class="bx bxs-quote-alt-left quote-icon-left"></i>
@@ -376,29 +389,29 @@
                 c'est vraiment une personne sur qui on peut compter
                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
               </p>
-              <!-- <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt=""> -->
+              
               <h3>Samuel G.</h3>
               <h4>Professeur Multihexa</h4>
             </div>
-          </div><!-- End testimonial item -->
+          </div> End testimonial item -->
 
           <div class="swiper-slide">
             <div class="testimonial-item">
               <p>
                 <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                J'ai travaillé quelques années avec Jessika et je n'ai que de bons mots pour elle,
-                c'est une personne qui prend son travail très au sérieux et qui le fait bien,
-                avec compétence et beaucoup d'humanité et bien sûr toujours avec le sourire,
-                c'est vraiment une personne sur qui on peut compter
+                J'ai eu la chance de côtoyer et de travailler avec Jessika durant plusieurs mois. 
+                L'une de ses plus grandes forces est certainement son côté analytique.
+                Elle pense toujours à tout dans les plus moindres détails.
+                Aucun souci à se faire avec Jessika, son travail est toujours d'une grande qualité.
                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
               </p>
-              <!-- <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt=""> -->
-              <h3>Bruno L.</h3>
-              <h4>Directeur de programme Multihexa</h4>
+
+              <h3>Alexia Girard</h3>
+              <h4>Stagiaire chez Marché Conclu</h4>
             </div>
-          </div><!-- End testimonial item -->
+          </div><!--End testimonial item -->
 
-          <div class="swiper-slide">
+          <!--<div class="swiper-slide">
             <div class="testimonial-item">
               <p>
                 <i class="bx bxs-quote-alt-left quote-icon-left"></i>
@@ -408,11 +421,10 @@
                 c'est vraiment une personne sur qui on peut compter
                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
               </p>
-              <!-- <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt=""> -->
               <h3>Daniel L.</h3>
               <h4>Directeur Marché Conclu</h4>
             </div>
-          </div><!-- End testimonial item -->
+          </div> End testimonial item -->
 
         </div>
         <div class="swiper-pagination"></div>
@@ -423,6 +435,8 @@
       </div>
 
     </div><!-- End Testimonials  -->
+
+
 
   </section><!-- End About Section -->
 
@@ -486,7 +500,7 @@
           <h3 class="resume-title">Expériences Professionnelles</h3>
           <div class="resume-item">
             <h4>Stagiaire programmeuse analyste</h4>
-            <h5>Mars 2023 - Ce jour</h5>
+            <h5>Mars 2023 - Mai 2023</h5>
             <p><em>Marché Conclu, Sorel-Tracy, QC, CA </em></p>
             <p>
             <ul>
@@ -513,11 +527,11 @@
 
           <h3 class="resume-title">Langage</h3>
           <div class="resume-item">
-            <h4>Langue Parlé</h4>
+            <h4>Langues Parlées</h4>
             <p>
             <ul>
               <li>Français : Langue maternelle </li>
-              <li>Anglais : niveau B2 sur l’échelle CECRL </li>
+              <li>Anglais : Niveau B2 sur l’échelle CECRL </li>
             </ul>
             </p>
           </div>
@@ -534,7 +548,7 @@
         <h2> Mes Services </h2>
         <p>Besoin d'un coup de main ?</p>
         <h5 style="font-style: italic;">
-          J'offre des services pour les petites, les grandes entreprises ainsi que les particuliers .
+          J'offre des services pour les entrepreneurs, les petites entreprises ainsi que les particuliers .
 
         </h5>
       </div>
@@ -546,13 +560,13 @@
             <h4>SITE WEB STATIC</a></h4>
             <p style="text-align: left;">
               Les sites web statiques sont souvent conçues en utilisant du CSS et du HTML et peuvent supporter du contenu animé
-              comme les GIFS et les vidéos .
+              comme les GIFS , des images et des vidéos .
             </p>
             <div class="row">
               <div class="col-lg-12">
                 <ul class="mt-3 ">
-                  <li><i class="bi bi-chevron-right"></i>Portfolio</li>
-                  <li><i class="bi bi-chevron-right"></i>Carte d'affaire</li>
+                  <li><i class="bi bi-chevron-right"></i>Création de portfolio</li>
+                  <li><i class="bi bi-chevron-right"></i>Création de site "carte d'affaire"</li>
                 </ul>
               </div>
             </div>
@@ -564,15 +578,15 @@
             <div class="icon"><i class="bi bi-database-fill-gear"></i></div>
             <h4>APPLICATIONS WEB DYNAMIQUE</a></h4>
             <p style="text-align: left;">
-              Les applications web dynamiques constituent des outils qui utilisent des bases de données pour charger leurs informations.
+              Les applications web dynamiques utilisent des bases de données pour charger leurs informations.
               Elles sont évolutives et peuvent fournir beaucoup d’informations en fonction de l’interaction avec l’utilisateur
               , par exemple en permettant aux utilisateurs de se connecter à un portail et de gérer leur propre contenu .
             </p>
             <div class="row">
               <div class="col-lg-12">
                 <ul class="mt-3 ">
-                  <li><i class="bi bi-chevron-right"></i>Site web de service avec portail web</li>
-                  <li><i class="bi bi-chevron-right"></i>Outils de gestion en ligne avec portail web</li>
+                  <li><i class="bi bi-chevron-right"></i>Site web avec portail web</li>
+                  <li><i class="bi bi-chevron-right"></i>Outils de gestion en ligne</li>
                 </ul>
               </div>
             </div>
@@ -592,8 +606,8 @@
             <div class="row">
               <div class="col-lg-12">
                 <ul class="mt-3">
-                  <li><i class="bi bi-chevron-right"></i>Site web de produits destinées à la vente </li>
-                  <li><i class="bi bi-chevron-right"></i>Site web de services</li>
+                  <li><i class="bi bi-chevron-right"></i>Site web de vente de produits</li>
+                  <li><i class="bi bi-chevron-right"></i>Site web de vente de services</li>
                 </ul>
               </div>
             </div>
@@ -605,7 +619,7 @@
             <div class="icon"><i class="bx bx-world"></i></div>
             <h4>SUR MESURE</a></h4>
             <p style="text-align: left;">
-              " Vous avez un projet ? Vous voulez améliorer votre visibilité ou votre efficacité ?
+              " Vous avez un projet personnel? Vous voulez améliorer votre visibilité ou votre efficacité ?
               J'ai des outils pour vous aider à réaliser vos objectifs ! "
             </p>
           </div>
@@ -657,63 +671,65 @@
             <li data-filter=".filter-app"> Application Web</li>
             <li data-filter=".filter-card"> Boutique en ligne</li>
             <li data-filter=".filter-web"> Site Web responsive</li>
-            <li data-filter=".filter-mob"> Application mobile</li>
+            <li data-filter=".filter-mobile"> Application Mobile</li>
+            <li data-filter=".filter-console"> Application Console</li>
+
           </ul>
         </div>
       </div>
 
       <div class="row portfolio-container">
 
-        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+        <div class="col-lg-4 col-md-6 portfolio-item filter-console">
           <div class="portfolio-wrap">
-            <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+            <img src="assets/img/portfolio/vb.net.png" class="img-fluid" alt="imagelanguage">
             <div class="portfolio-info">
               <h4>Gestion étudiants et cours</h4>
               <p>VB.NET</p>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Conception d'application graphique"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.php" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/portfolio/vb.net.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Travail de session 3 - Visual Studio"><i class="bx bx-plus"></i></a>
+                <a href="https://github.com/misszeste/P44-GestionEtudiant-VB.NET"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+        <div class="col-lg-4 col-md-6 portfolio-item filter-console">
           <div class="portfolio-wrap">
-            <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+            <img src="assets/img/portfolio/vb.net.png" class="img-fluid" alt="imagelanguage">
             <div class="portfolio-info">
-              <h4>Poker</h4>
+              <h4>Bingo</h4>
               <p>VB.NET</p>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Programmation orienté objet"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.php" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/portfolio/vb.net.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Travail de session 2 - Visual Studio"><i class="bx bx-plus"></i></a>
+                <a href="https://github.com/misszeste/P34-BINGO-VB.NET"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
         </div>
 
-        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+        <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-web">
           <div class="portfolio-wrap">
-            <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+            <img src="assets/img/portfolio/html.png" class="img-fluid" alt="imagelanguage">
             <div class="portfolio-info">
-              <h4>Site cimetière</h4>
+              <h4>Site cimétière</h4>
               <p>HTML - CSS - JavaScript</p>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/html.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.php" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
 
-        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+        <div class="col-lg-4 col-md-6 portfolio-item filter-console">
           <div class="portfolio-wrap">
-            <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+            <img src="assets/img/portfolio/c.png" class="img-fluid" alt="imagelanguage">
             <div class="portfolio-info">
               <h4>Gestion étudiants</h4>
               <p>C#</p>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Programmation structurée"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.php" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/portfolio/c.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Travail de session 2 - Visual Studio"><i class="bx bx-plus"></i></a>
+                <a href="https://github.com/misszeste/P24-TP2-CSHARP" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -721,97 +737,84 @@
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-card">
           <div class="portfolio-wrap">
-            <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
+            <img src="assets/img/portfolio/php.png" class="img-fluid" alt="imagelanguage">
             <div class="portfolio-info">
               <h4>Agence de voyage</h4>
               <p>PHP</p>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="CONCEPTION D'APPLICATIONS WEB TRANSACTIONNELLES"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.php" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/portfolio/php.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Travail de session 3 - Visual Studio Code"><i class="bx bx-plus"></i></a>
+                <a href="https://github.com/misszeste/W34_TP2_2210116-VF" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
         </div>
 
-        <div class="col-lg-4 col-md-6 portfolio-item filter-mob">
+        <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-mobile">
           <div class="portfolio-wrap">
-            <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
+            <img src="assets/img/portfolio/kotlin.png" class="img-fluid" alt="imagelanguage">
             <div class="portfolio-info">
               <h4>Application Mobile</h4>
               <p>Kotlin</p>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Développement mobile"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/kotlin.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Travail de session 4 - Android Studio "><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.php" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
 
-        <div class="col-lg-4 col-md-6 portfolio-item filter-mob">
+        <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-mobile">
           <div class="portfolio-wrap">
-            <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
+            <img src="assets/img/portfolio/react.png" class="img-fluid" alt="imagelanguage">
             <div class="portfolio-info">
               <h4>Application Mobile</h4>
               <p>React et Ionic</p>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Développement mobile"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/react.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Travail de session 4 - Visual Studio Code"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.php" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
 
-        <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-          <div class="portfolio-wrap">
-            <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Agence de voyage</h4>
-              <p>PHP</p>
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="CONCEPTION D'APPLICATIONS WEB TRANSACTIONNELLES"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.php" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
 
-        <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+        <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-app">
           <div class="portfolio-wrap">
-            <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
+            <img src="assets/img/portfolio/asp.net.png" class="img-fluid" alt="imagelanguage">
             <div class="portfolio-info">
               <h4>BLOG voyage</h4>
               <p>ASP.Net</p>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Développement d'application web"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/asp.net.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.php" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
 
-        <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+        <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-app">
           <div class="portfolio-wrap">
-            <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+            <img src="assets/img/portfolio/asp.net.png" class="img-fluid" alt="imagelanguage">
             <div class="portfolio-info">
               <h4>Marie M</h4>
               <p>ASP.Net</p>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Développement d'application web"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/asp.net.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.php" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
 
-        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
           <div class="portfolio-wrap">
-            <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
+            <img src="assets/img/portfolio/php.png" class="img-fluid" alt="imagelanguage">
             <div class="portfolio-info">
-              <h4>Raymond</h4>
+              <h4>Raymond - À Venir</h4>
               <p>PHP</p>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="CONCEPTION D'APPLICATIONS WEB TRANSACTIONNELLES"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.php" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/portfolio/php.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Application Web pour Artisan du bois - Visual Studio Code"><i class="bx bx-plus"></i></a>
+                <!-- <a href="" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a> -->
               </div>
             </div>
           </div>
