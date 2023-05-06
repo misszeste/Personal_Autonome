@@ -67,7 +67,6 @@
   <!-- ======= Header ======= -->
   <header id="header">
     <div class="container">
-
       <h1 class="glow"><a href="index.php">Jessika Soucy</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="mr-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a> -->
@@ -548,7 +547,8 @@
         <h2> Mes Services </h2>
         <p>Besoin d'un coup de main ?</p>
         <h5 style="font-style: italic;">
-          J'offre des services pour les entrepreneurs, les petites entreprises ainsi que les particuliers .
+          J'offre des services pour les entrepreneurs, les petites entreprises ainsi que les particuliers .<br>
+          Vous voulez une soumission ?  Plus d'information ? <br><a href="#contact" onclick="nav=document.getElementById('navbar').getElementsByTagName('a');nav[5].click();"> Contactez-moi</a> 
 
         </h5>
       </div>
